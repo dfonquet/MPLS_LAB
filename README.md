@@ -14,7 +14,7 @@ protocol for MPLS network</strong></summary> <p>In this configuration, OSPF is e
     <p>In this configuration, Layer 2 Virtual Private Network (L2VPN) is established in the network.</p> </details> <details> <summary><strong>Configuring Intermediate System to Intermediate System (ISIS) in the network</strong></summary> <p>In this configuration, [Intermediate System] to Intermediate System (ISIS) is configured in the network.</p> </details> <details> 
       <summary><strong>Configuring Enhanced Interior Gateway [Routing Protocol] (EIGRP) in the network</strong></summary> <p>In this configuration, [Enhanced Interior Gateway Routing Protocol] (EIGRP) is configured in the network.</p> </details> <details> <summary><strong>Configuring
         [Traffic Engineering] in the network</strong></summary> <p>In this configuration, traffic engineering is established in the network.</p> </details> <details> <summary><strong>Establishing Virtual Routing and Forwarding (VRF) in the network</strong></summary> <p>In this configuration, 
-[Virtual Routing](poe://www.poe.com/_api/key_phrase?phrase=Virtual%20Routing&prompt=Tell%20me%20more%20about%20Virtual%20Routing.) and Forwarding (VRF) is established in the network.</p> </details>
+[Virtual Routing] and Forwarding (VRF) is established in the network.</p> </details>
 
 
 
